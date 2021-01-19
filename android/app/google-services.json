@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1088844667631",
+    "firebase_url": "https://fir-controller-e1df4.firebaseio.com",
+    "project_id": "fir-controller-e1df4",
+    "storage_bucket": "fir-controller-e1df4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1088844667631:android:347b06dab757d3667d191a",
+        "android_client_info": {
+          "package_name": "com.example.agola"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1088844667631-fg6prtgb8e5oeo1f7ehjsqljbshi3bs4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBe1Uww7nZFMI5UvtH-MlGuuDopi09sEKs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1088844667631-fg6prtgb8e5oeo1f7ehjsqljbshi3bs4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
