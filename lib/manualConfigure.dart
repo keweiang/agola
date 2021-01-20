@@ -107,6 +107,7 @@ class _ManualConfigureState extends State<ManualConfigure> {
                                 }
                                 selectedValue[0] = newValue;
                                 dropDownArrow.remove(newValue);
+                                dropDownArrow.sort();
                               });
                             },
                             items: dropDownArrow
@@ -183,6 +184,7 @@ class _ManualConfigureState extends State<ManualConfigure> {
                                     }
                                     selectedValue[1] = newValue;
                                     dropDownArrow.remove(newValue);
+                                    dropDownArrow.sort();
                                   });
                                 },
                                 items: dropDownArrow // NO 4
@@ -256,6 +258,7 @@ class _ManualConfigureState extends State<ManualConfigure> {
                                     }
                                     selectedValue[2] = newValue;
                                     dropDownArrow.remove(newValue);
+                                    dropDownArrow.sort();
                                   });
                                 },
                                 items: dropDownArrow
@@ -326,6 +329,7 @@ class _ManualConfigureState extends State<ManualConfigure> {
                                     }
                                     selectedValue[3] = newValue;
                                     dropDownArrow.remove(newValue);
+                                    dropDownArrow.sort();
                                   });
                                 },
                                 items: dropDownArrow
@@ -394,6 +398,7 @@ class _ManualConfigureState extends State<ManualConfigure> {
                                 }
                                 selectedValue[4] = newValue;
                                 dropDownAction.remove(newValue);
+                                dropDownAction.sort();
                               });
                             },
                             items: dropDownAction
@@ -450,6 +455,7 @@ class _ManualConfigureState extends State<ManualConfigure> {
                                 }
                                 selectedValue[5] = newValue;
                                 dropDownAction.remove(newValue);
+                                dropDownAction.sort();
                               });
                             },
                             items: dropDownAction
@@ -506,6 +512,7 @@ class _ManualConfigureState extends State<ManualConfigure> {
                                 }
                                 selectedValue[6] = newValue;
                                 dropDownAction.remove(newValue);
+                                dropDownAction.sort();
                               });
                             },
                             items: dropDownAction
@@ -564,6 +571,7 @@ class _ManualConfigureState extends State<ManualConfigure> {
                                 }
                                 selectedValue[7] = newValue;
                                 dropDownAction.remove(newValue);
+                                dropDownAction.sort();
                               });
                             },
                             items: dropDownAction
