@@ -11,16 +11,6 @@ class ManualConfigure extends StatefulWidget {
 }
 
 class _ManualConfigureState extends State<ManualConfigure> {
-  // int dropdownValue = 1;
-  // int dropdownValue2 = 2;
-  // int dropdownValue3 = 3;
-  // int dropdownValue4 = 4;
-  // int dropdownValue5 = 5;
-  // int dropdownValue6 = 6;
-  // int dropdownValue7 = 7;
-  // int dropdownValue8 = 8;
-  // List<int> dropDowns = [0, 1, 2, 3, 4, 5, 6, 7, 8];
-
   List<int> dropDownArrow = [1, 2, 3, 4];
   List<int> dropDownAction = [5, 6, 7, 8];
 

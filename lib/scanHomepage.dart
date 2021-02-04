@@ -62,9 +62,9 @@ class _ScannerState extends State<Scanner> {
                       left: 25.0, top: 0.0, right: 0.0, bottom: 0.0),
                   child: Text(
                     "WELCOME",
-                    style: GoogleFonts.dosis(
+                    style: GoogleFonts.nunito(
                         textStyle: TextStyle(
-                            fontWeight: FontWeight.w700, fontSize: 30)),
+                            fontWeight: FontWeight.w800, fontSize: 30)),
                   ),
                 ),
                 Center(
