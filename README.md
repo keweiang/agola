@@ -2,6 +2,8 @@
 
 A new Flutter project.
 
+QR code to scan -> https://drive.google.com/file/d/1lIBP8mdrh32iAmS4Vo-bTvpCJYEhsUMF/view?usp=sharing
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
